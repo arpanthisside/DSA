@@ -1,0 +1,23 @@
+Algorithms to know to ace a DSA interview:
+
+1️⃣. Sorting Algorithms:
+ - Description: Organize data into a specific order (ascending or descending). Examples include Bubble Sort, Merge Sort, and Quick Sort.
+ - Importance: Efficiently sorted data simplifies and speeds up many other operations like searching and merging.
+
+2️⃣. Searching Algorithms: Locate specific elements within a dataset. Examples include Linear Search and Binary Search.
+ - Importance: Essential for retrieving information quickly from sorted and unsorted data structures.
+
+3️⃣. Dynamic Programming: Breaks down problems into simpler subproblems and solves each subproblem once, storing the results for reuse. Examples include the Knapsack Problem and Longest Common Subsequence.
+ - Importance: Optimizes problems with overlapping subproblems and optimal substructure, reducing computational complexity.
+
+4️⃣. Greedy Algorithms: Make locally optimal choices at each step with the hope of finding a global optimum. Examples include Activity Selection and Huffman Coding.
+ - Importance: Often leads to efficient solutions for optimization problems where a globally optimal solution can be constructed from local decisions.
+
+5️⃣. Backtracking: Incrementally builds candidates for solutions and abandons those that fail to satisfy the constraints. Examples include the N-Queens Problem and Subset Sum Problem.
+ - Importance: Useful for solving constraint satisfaction problems and exploring all possible solutions in a systematic manner.
+
+6️⃣. Divide and Conquer: Divides the problem into smaller subproblems, solves them independently, and combines their results. Examples include Merge Sort and Quick Sort.
+ - Importance: Simplifies complex problems by breaking them down, leading to efficient algorithms with good performance.
+
+7️⃣. Graph Algorithms: Operate on graph data structures to solve problems related to paths, connectivity, and network flows. Examples include Dijkstra’s Algorithm, BFS, and Kruskal’s Algorithm.
+ - Importance: Essential for solving problems in network design, route optimization, and resource allocation.
